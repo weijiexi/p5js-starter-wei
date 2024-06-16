@@ -10,7 +10,7 @@
 - [http://soulwire.co.uk](http://soulwire.co.uk)
 - [https://github.com/soulwire/sketch.js](https://github.com/soulwire/sketch.js)
 - [https://p5-designer.github.io/FoldScroll](https://p5-designer.github.io/FoldScroll)
-- [https://www.generative-gestaltung.de]([https://www.generative-gestaltung.de)]
+- [https://www.generative-gestaltung.de](https://www.generative-gestaltung.de)
 
 **In Chinese** 
 
